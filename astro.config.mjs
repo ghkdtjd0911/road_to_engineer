@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://ghkdtjd0911.github.io/my-road_to_engineer',
+	// base: '',
 	integrations: [
 		starlight({
 			title: '개발자 몸부림 페이지',

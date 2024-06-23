@@ -13,10 +13,10 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: '가이드',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: '개발자 몸부림 가이드', link: '/guides/example/' },
 					],
 				},
 				{

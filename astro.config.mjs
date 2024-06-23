@@ -18,9 +18,17 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: '백엔드 개발자',
+					autogenerate: { directory: '백엔드 개발자' },
 				},
+				// {
+				// 	label: 'Postgres',
+				// 	autogenerate: { directory: '백엔드 개발자' },
+				// },
+				// {
+				// 	label: '소프트웨어 아키텍트',
+				// 	autogenerate: { directory: '백엔드 개발자' },
+				// },
 			],
 		}),
 	]
